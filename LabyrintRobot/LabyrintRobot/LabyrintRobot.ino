@@ -6,7 +6,7 @@
 
 // the setup function runs once when you press reset or power the board
 void setup() {
-//dette er en setup funktion jeff
+//dette er en setup funktion jeff er sej
 }
 
 // the loop function runs over and over again until power down or reset
