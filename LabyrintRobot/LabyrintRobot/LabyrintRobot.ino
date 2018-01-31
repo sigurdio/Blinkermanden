@@ -6,10 +6,10 @@
 
 // the setup function runs once when you press reset or power the board
 void setup() {
-//dette er en setup funktion jeff er sej
+//dette er en setup funktion. Her gøres ting en gang kun
 }
 
 // the loop function runs over and over again until power down or reset
 void loop() {
-  //dette er et loop. Den k�re i ring
+  //dette er et loop. Den køre i ring
 }
