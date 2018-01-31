@@ -11,5 +11,5 @@ void setup() {
 
 // the loop function runs over and over again until power down or reset
 void loop() {
-  //dette er et loop. Den køre i ring
+  //dette er et loop. Det køre i ring
 }
